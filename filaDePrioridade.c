@@ -1,14 +1,3 @@
-/*********************************************************************/
-/**   ACH2023 - Algoritmos e Estruturas de Dados I                  **/
-/**   EACH-USP - Segundo Semestre de 2020                           **/
-/**   Turma 04 - Prof. Luciano Antonio Digiampietri                 **/
-/**                                                                 **/
-/**   EP1 - Fila de Prioridade                                      **/
-/**                                                                 **/
-/**   Jéssica da Paixão Melo                  10875986              **/
-/**                                                                 **/
-/*********************************************************************/
-
 #include "filaDePrioridade.h"
 
 PFILA criarFila(int max){
